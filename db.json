@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Study time",
+      "day": "All week",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Swimming Class",
+      "day": "Monday and Tuesday",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+footer {
+  bottom: 0;
+  padding: 1em;
+     text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+  cursor: pointer;
+  color: #000000;
+  transition: 0.3s all ease-in-out;
+}
+
+footer a:visited {
+  color: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
